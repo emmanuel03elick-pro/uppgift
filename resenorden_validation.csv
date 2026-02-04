@@ -1,0 +1,402 @@
+bokning_id,bokningsdatum,kund_id,destination,land,avresedatum,hemresedatum,antal_resenärer,pakettyp,pris,valuta,hotell,bokningskanal,status,avbokningsdatum,recension_text,recensionsdatum,betyg
+RES-2025-00001,2025-01-18,KUND-07146,Reykjavik,Island,2025-03-23,2025-03-30,1,All inclusive,14483.0,SEK,Hotel Borg,Webb,Avbokad,2025-03-05,,,
+RES-2025-00002,2025-01-02,KUND-08163,Oslö,Norge,2025-01-21,2025-01-24,3,Weekend-paket,15186.0,SEK,Hotel Continental,App,Genomförd,,Rekommenderas varmt! Vi hade det så bra.,2025-02-14,5
+RES-2025-00003,2025-01-19,KUND-08163,Köpenhamn,Danmark,2025-01-30,2025-02-01,3,Weekend-paket,13989.3,SEK,Comfort Hotel Vesterbro,Webb,Genomförd,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-02-11,4
+RES-2025-00004,2025-01-25,KUND-08163,Köpenhamn,Danmark,2025-01-30,2025-02-02,2,Weekendresa,7602.4,SEK,Hotel Scandic Copenhagen,App,Genomförd,,,,
+RES-2025-00005,2025-01-25,KUND-08589,Tromsø,Norge,2025-03-03,08-03-2025,3,All inclusive,51308.4,NOK,Clarion Hotel The Edge,Webb,Genomförd,,Allting klaffade från början till slut.,2025-03-25,4
+RES-2025-00006,2025-01-20,KUND-05516,oslo,Norge,2025-02-18,2025-02-21,4,Halvpension,31864.0,NOK,Thon Hotel Opera,,Genomförd,,,,
+RES-2025-00007,2025-01-07,KUND-05516,Helsingfors,Finland,2025-01-13,2025-01-16,1,Weekend-paket,2539.8,SEK,Omena Hotel,App,Färdig,,,,
+RES-2025-00008,2025-01-24,KUND-07146,Tromsø,Norge,2025-03-04,2025-03-07,2,Halvpension,24469.7,SEK,,App,Genomförd,,"Perfekt planerad resa, inget att klaga på.",2025-03-15,5
+RES-2025-00009,2025-01-12,KUND-07146,Köpenhamn,Danmark,2025-01-18,2025-01-21,1,Weekend-paket,4134.4,SEK,Hotel Scandic Copenhagen,app,Genomförd,,All inclusive var värt pengarna. Inga bekymmer.,2025-01-31,5
+RES-2025-00010,2025-01-25,KUND-06841,Reykjavik,Island,2025-03-21,25/03/2025,2,Halvpension,35977.2,SEK,Bus Hostel Reykjavik,Telefon,Genomförd,,"Reykjavik är alltid trevligt, men inget speciellt denna gång.",2025-03-29,3
+RES-2025-00011,2025-01-25,KUND-06364,Reykjavik,Island,2025-03-04,2025-03-07,2,Weekend-paket,7095.2,SEK,Hotel Borg,Mobile,Genomförd,,,,
+RES-2025-00012,2025-01-09,KUND-08621,oslo,Norge,2025-01-23,2025-01-26,1,Weekend-paket,3041.0,SEK,Hotel Continental,Webb,Avbokad,2025-01-11,,,
+RES-2025-00013,2025-01-16,KUND-05222,Trondheim,,2025-02-14,2025-02-18,2,Halvpension,20592.2,SEK,Comfort Hotel Trondheim,Webb,Genomförd,,"Lagom resa, kunde varit bättre.",2025-03-07,3
+RES-2025-00014,2025-01-18,KUND-05588,Köpenhamn,Danmark,2025-01-23,2025-01-25,2,Weekend-paket,9288.8,SEK,Hotel Scandic Copenhagen,Webb,Avbokad,2025-01-19,,,
+RES-2025-00015,2025-01-09,KUND-05222,Reykjavik,Island,2025-02-02,2025-02-04,2,Weekend-paket,9732.8,SEK,Bus Hostel Reykjavik,App,Genomförd,,"Inget speciellt att rapportera, det fungerade.",2025-02-19,3
+RES-2025-00016,2025-01-21,KUND-08957,Tromsø,Norge,2025-02-17,2025-02-19,2,Weekend-paket,8880.3,NOK,Clarion Hotel The Edge,Mobile,Genomförd,,,,
+RES-2025-00017,2025-01-19,KUND-06826,Oslo,Norge,2025-02-13,2025-02-16,2,Bed & Breakfast,16174.0,SEK,Thon Hotel Opera,web,Genomförd,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-03-05,4
+RES-2025-00018,2025-01-21,KUND-05575,Köpenhamn,Danmark,2025-02-08,2025-02-10,5,Weekend-paket,11407.0,SEK,Comfort Hotel Vesterbro,App,Genomförd,,,,
+RES-2025-00019,2025-01-08,KUND-08954,Reykjavik,Island,2025-03-20,2025-03-27,2,All inclusive,53368.0,SEK,Hotel Borg,Webb,Avbokad,2025-01-21,,,
+RES-2025-00020,2025-01-13,KUND-07980,Trondheim,Norge,2025-02-19,2025-02-23,2,Halvpension,21359.8,NOK,Comfort Hotel Trondheim,web,Genomförd,,,,
+RES-2025-00021,2025-01-11,KUND-07481,Tromso,Norge,2025-02-27,2025-03-02,3,Halvpension,40758.3,SEK,Smarthotel Tromsø,,Genomförd,,,,
+RES-2025-00022,2025-01-11,KUND-07039,Tromsø,Norge,2025-02-23,2025-02-27,4,Halvpension,33483.4,SEK,Clarion Hotel The Edge,Webb,Genomförd,,Romantisk resa till Tromsø. Helt underbart.,2025-03-08,5
+RES-2025-00023,2025-01-03,KUND-08957,Köpenhamn,Danmark,2025-02-03,2025-02-07,2,All inclusive,20129.7,SEK,Hotel Scandic Copenhagen,App,Genomförd,,,,
+RES-2025-00024,2025-01-22,KUND-06061,Helsingfors,Finland,2025-03-19,2025-03-23,4,All inclusive,87390.0,SEK,Omena Hotel,,Genomförd,,,,
+RES-2025-00025,2025-01-21,KUND-06736,Tromsø,Norge,2025-02-28,2025-03-04,5,endast boende,18072.25,SEK,Clarion Hotel The Edge,Webb,Genomförd,,Smidigt att boka och allt fungerade perfekt.,2025-03-13,5
+RES-2025-00026,2025-01-04,KUND-07460,Oslo,Norge,2025-01-18,2025-01-20,2,Weekend-paket,6750.0,NOK,Hotel Continental,Webb,Färdig,,Romantisk resa till Oslo. Helt underbart.,2025-02-05,4
+RES-2025-00027,2025-01-14,KUND-08029,Rovaniemi,Finland,2025-01-31,2025-02-03,2,Endast boende,17976.0,SEK,Arctic TreeHouse Hotel,App,Genomförd,,Allting klaffade från början till slut.,2025-02-17,4
+RES-2025-00028,2025-01-05,KUND-08024,Rovaniemi,Finland,2025-02-10,2025-02-15,2,Halvpension,26493.6,SEK,Scandic Rovaniemi,Webb,Genomförd,,All inclusive var värt pengarna. Inga bekymmer.,2025-02-22,5
+RES-2025-00029,2025-01-24,KUND-07126,Reykjavik,Island,2025-03-17,2025-03-24,2,All inclusive,51609.6,SEK,Bus Hostel Reykjavik,App,Genomförd,,,,
+RES-2025-00030,2025-01-05,KUND-08415,Tromsö,Norge,2025-01-30,2025-02-03,1,Halvpension,670.9,EUR,Smarthotel Tromsø,Webb,Genomförd,,Helt acceptabelt för priset.,2025-02-20,3
+RES-2025-00031,2025-01-02,KUND-07741,Köpenhamn,Danmark,2025-02-11,2025-02-14,2,Halvpension,20226.6,SEK,Hotel D'Angleterre,Telefon,Avbokad,2025-01-20,,,
+RES-2025-00032,2025-01-19,KUND-08589,Tromsö,Norge,2025-02-10,2025-02-13,2,Weekend-paket,12328.0,SEK,Smarthotel Tromsø,Webb,Done,,,,
+RES-2025-00033,2025-01-15,KUND-08589,Oslo,Norge,2025-02-28,2025-03-03,2,All inclusive,1972.35,EUR,Thon Hotel Opera,,Genomförd,,,,
+RES-2025-00034,2025-01-01,KUND-08183,Reykjavik,Island,2025-02-17,2025-02-21,1,Endast boende,6904.8,SEK,Bus Hostel Reykjavik,Webb,Färdig,,,,
+RES-2025-00035,2025-01-06,KUND-05151,Köpenhamn,Danmark,2025-01-22,2025-01-26,1,Endast Boende,2186.42,DKK,Hotel Scandic Copenhagen,Webb,Genomförd,,,,
+RES-2025-00036,2025-01-06,KUND-07974,Rovaniemi,Finland,2025-02-02,2025-02-05,1,Endast boende,6891.6,SEK,Arctic TreeHouse Hotel,Webb,Genomförd,,,,
+RES-2025-00037,2025-01-12,KUND-07126,Rovaniemi,Finland,2025-02-17,2025-02-21,2,Endast boende,11385.6,SEK,Arctic TreeHouse Hotel,App,Genomförd,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-03-11,5
+RES-2025-00038,2025-01-26,KUND-05575,Tromsø,Norge,2025-03-09,14-03-2025,4,Halvpension,3705.2,EUR,Clarion Hotel The Edge,App,Genomförd,,,,
+RES-2025-00039,2025-01-03,KUND-08818,Oslo,Norge,2025-01-11,2025-01-13,2,Weekend-paket,8108.0,SEK,Hotel Continental,Webb,Genomförd,,,,
+RES-2025-00040,2025-01-09,KUND-06841,Köpenhamn,Danmark,2025-01-28,2025-01-30,2,Weekend-paket,5021.8,SEK,Hotel D'Angleterre,Webb,Genomförd,,Hotellet överträffade förväntningarna. Toppklass!,2025-02-20,5
+RES-2025-00041,"January 17, 2025",KUND-07037,Rovaniemi,Finland,2025-02-05,2025-02-07,2,Weekend-paket,6516.0,SEK,Scandic Rovaniemi,Webb,Genomförd,,Smidigt att boka och allt fungerade perfekt.,2025-02-25,5
+RES-2025-00042,2025-01-04,KUND-07581,Oslo,Norge,01-02-2025,2025-02-05,2,Endast boende,1310.78,EUR,Comfort Hotel Grand Central,Webb,Genomförd,,,,
+RES-2025-00043,26-01-2025,KUND-08003,Köpenhamn,Danmark,2025-02-09,2025-02-14,2,Endast boende,8260.3,SEK,Hotel Scandic Copenhagen,App,Genomförd,,"Mysig stad, trevliga restauranger, fin stämning.",2025-03-05,4
+RES-2025-00044,2025-01-21,KUND-07817,Rovaniemi,Finland,2025-02-05,2025-02-08,4,Weekend-paket,2400.42,EUR,Arctic TreeHouse Hotel,App,Genomförd,,,,
+RES-2025-00045,2025-01-03,KUND-07148,Köpenhamn,Danmark,2025-01-14,2025-01-16,2,Weekendresa,6490.6,SEK,Hotel D'Angleterre,App,Genomförd,,Perfekt weekendresa till Köpenhamn. Kommer tillbaka!,2025-01-22,5
+RES-2025-00046,2025-01-11,KUND-07974,Oslo,Norge,2025-02-18,2025-02-22,2,Halvpension,18314.0,NOK,Thon Hotel Opera,Webb,Genomförd,,,,
+RES-2025-00047,2025-01-22,KUND-05855,Reykjavik,Island,2025-04-07,12/04/2025,4,All inclusive,6551.03,EUR,CenterHotel Midgardur,Webb,Avbokad,2025-03-26,,,
+RES-2025-00048,2025-01-06,KUND-08980,Reykjavik,Island,2025-02-15,21 februari 2025,2,Halvpension,27028.4,SEK,Bus Hostel Reykjavik,Webb,Avbokad,2025-01-12,,,
+RES-2025-00049,2025-01-23,KUND-08954,Oslo,Norge,2025-03-07,2025-03-12,2,Halvpension,20098.0,SEK,Hotel Continental,Webb,Avbokad,2025-02-01,,,
+RES-2025-00050,2025-01-01,KUND-07785,Tromso,,2025-01-18,2025-01-21,2,Endast boende,7171.4,NOK,Smarthotel Tromsø,,Genomförd,,,,
+RES-2025-00051,2025-01-16,KUND-08640,Oslo,Norge,2025-02-11,2025-02-14,2,Weekend-paket,490.43,EUR,Thon Hotel Opera,Webb,Genomförd,,Norrskenet gjorde hela resan värd det.,2025-02-25,5
+RES-2025-00052,2025-01-18,KUND-07236,Rovaniemi,Finland,2025-02-09,2025-02-12,2,Endast boende,7471.2,SEK,Arctic TreeHouse Hotel,Telefon,Genomförd,,,,
+RES-2025-00053,2025-01-07,KUND-08070,Tromsö,Norge,2025-02-13,2025-02-17,1,endast boende,889.3,EUR,Smarthotel Tromsø,Webb,Genomförd,,,,
+RES-2025-00054,2025-01-22,KUND-08640,Reykjavik,Island,2025-04-05,2025-04-11,2,All inclusive,51170.0,SEK,Hotel Borg,Telefon,Bekräftad,,,,
+RES-2025-00055,2025-01-26,KUND-06181,Helsingfors,Finland,2025-03-20,2025-03-23,2,All inclusive,24957.0,SEK,Omena Hotel,Webb,Genomförd,,,,
+RES-2025-00056,2025-01-21,KUND-07140,Reykjavik,Island,2025-03-16,2025-03-20,1,Full Board,32223.8,SEK,Bus Hostel Reykjavik,,Genomförd,,,,
+RES-2025-00057,2025-01-28,KUND-05940,Köpenhamn,Danmark,2025-02-26,2025-03-02,2,Endast boende,11223.4,SEK,Hotel Scandic Copenhagen,Webb,Completed,,Perfekt weekendresa till Köpenhamn. Kommer tillbaka!,2025-03-04,4
+RES-2025-00058,2025-01-05,KUND-07195,Köpenhamnn,Danmark,2025-02-02,2025-02-05,2,Halvpension,12129.5,SEK,Comfort Hotel Vesterbro,Webb,Genomförd,,Fantastisk resa! Norrskenet var magiskt.,2025-02-11,4
+RES-2025-00059,2025-01-03,KUND-05588,Tromsø,Norge,19 januari 2025,2025-01-24,1,Room Only,659.7,EUR,Clarion Hotel The Edge,Internet,Genomförd,,,,
+RES-2025-00060,2025-01-08,KUND-07367,Helsingfors,Finland,2025-02-21,2025-02-24,1,All inclusive,20021.4,SEK,Original Sokos Hotel,Telefon,Avbokad,2025-02-16,,,
+RES-2025-00061,2025-01-14,KUND-05832,Köpenhamn,Danmark,2025-02-08,2025-02-12,2,Endast boende,523.6,EUR,Comfort Hotel Vesterbro,App,Genomförd,,,,
+RES-2025-00062,2025-01-16,KUND-07211,Tromsøø,Norge,2025-03-05,2025-03-10,2,All inclusive,49450.0,SEK,Smarthotel Tromsø,Telefon,Genomförd,,Helt acceptabelt för priset.,2025-03-27,3
+RES-2025-00063,2025-01-03,KUND-07905,Tromso,Norge,2025-03-01,2025-03-05,1,All inclusive,25110.25,SEK,Clarion Hotel The Edge,Webb,Genomförd,,Romantisk resa till Tromsø. Helt underbart.,2025-03-24,4
+RES-2025-00064,2025-01-05,KUND-08024,Reykjavik,Island,2025-03-11,2025-03-15,6,Halvpension,71727.6,SEK,CenterHotel Midgardur,Mobil,Genomförd,,,,
+RES-2025-00065,2025-01-19,KUND-05176,Tromsø,,2025-02-26,2025-03-02,2,Endast boende,8539.9,SEK,Clarion Hotel The Edge,Telefon,Genomförd,,Såg norrsken tre av fyra kvällar. Fantastiskt!,2025-03-04,5
+RES-2025-00066,2025-01-15,KUND-08394,Trondheim,Norge,2025-02-19,2025-02-22,2,Halvpension,13906.1,SEK,Comfort Hotel Trondheim,Website,Genomförd,,,,
+RES-2025-00067,2025-01-03,KUND-07671,Köpenhamn,Danmark,2025-01-08,2025-01-10,2,Weekend-paket,7568.4,SEK,Hotel Scandic Copenhagen,App,Genomförd,,,,
+RES-2025-00068,2025-01-22,KUND-08163,Trondheim,Norge,2025-02-18,2025-02-23,3,Bed & Breakfast,35402.7,SEK,Britannia Hotel,Telefon,Genomförd,,,,
+RES-2025-00069,2025-01-13,KUND-05151,Reykjavik,Island,2025-02-25,2025-03-03,2,B&B,36047.2,SEK,Bus Hostel Reykjavik,Telefon,Completed,,,,
+RES-2025-00070,2025-01-22,KUND-05619,Rovaniemi,Finland,2025-02-05,2025-02-08,2,Weekend-paket,12398.4,SEK,Scandic Rovaniemi,Webb,Genomförd,,Fantastisk resa! Norrskenet var magiskt.,2025-02-20,5
+RES-2025-00071,2025/01/17,KUND-05333,Tromsø,Norge,2025-02-22,2025-02-25,2,Halvpension,29902.3,NOK,Clarion Hotel The Edge,Webb,Genomförd,,,,
+RES-2025-00072,2025-01-03,KUND-07443,Rovaniemi,,2025-02-15,2025-02-20,3,Halvpension,29016.0,SEK,Scandic Rovaniemi,Webb,Avbeställd,2025-01-17,,,
+RES-2025-00073,2025-01-11,KUND-06560,Rovaniemi,Finland,2025-01-27,2025-01-30,3,Weekend-paket,9871.2,SEK,Arctic TreeHouse Hotel,App,Genomförd,,Rekommenderas varmt! Vi hade det så bra.,2025-02-10,5
+RES-2025-00074,2025-01-23,KUND-08906,Rovaniemi,Finland,2025-02-11,2025-02-15,2,Endast boende,8484.0,SEK,Arctic TreeHouse Hotel,Telefon,Genomförd,,All inclusive var värt pengarna. Inga bekymmer.,2025-03-08,5
+RES-2025-00075,2025-01-04,KUND-08818,Köpenhamn,Danmark,2025-01-24,2025-01-27,1,Weekend-paket,3703.45,SEK,Hotel D'Angleterre,Webb,Avbokad,2025-01-18,,,
+RES-2025-00076,2025-01-21,KUND-05309,Rovaniemi,Finland,2025-02-06,2025-02-09,2,RO,18240.0,SEK,Arctic TreeHouse Hotel,App,Genomförd,,,,
+RES-2025-00077,2025-01-07,KUND-06560,Tromsø,Norge,2025-01-27,2025-01-30,2,Endast boende,11072.2,SEK,Clarion Hotel The Edge,App,Genomförd,,,,
+RES-2025-00078,2025-01-27,KUND-05416,Tromsø,Norge,2025-03-10,2025-03-14,1,Halvpension,751.4,EUR,Clarion Hotel The Edge,Webb,Avbokad,2025-01-31,,,
+RES-2025-00079,2025-01-23,KUND-08024,Tromsö,Norge,2025-02-27,2025-03-04,1,Halvpension,9047.05,SEK,Clarion Hotel The Edge,,Genomförd,,,,
+RES-2025-00080,2025-01-12,KUND-08998,Helsingfors,Finland,2025-02-16,2025-02-20,6,Endast boende,39058.2,SEK,Hotel Kämp,Webb,Genomförd,,,,
+RES-2025-00081,2025-01-21,KUND-06560,Köpenhamn,Danmark,2025-02-27,2025-03-04,1,All inclusive,15915.4,SEK,Comfort Hotel Vesterbro,Webb,Genomförd,,,,
+RES-2025-00082,2025-01-19,KUND-08585,Oslo,Norge,2025-02-18,"February 22, 2025",2,Halvpension,18816.0,SEK,Hotel Continental,App,Done,,,,
+RES-2025-00083,2025-01-26,KUND-08415,Oslo,Norge,2025-03-13,2025-03-18,2,All inclusive,20182.0,NOK,Comfort Hotel Grand Central,Webb,Genomförd,,"Oslo är alltid trevligt, men inget speciellt denna gång.",2025-03-28,3
+RES-2025-00084,2025-01-17,KUND-07274,Köpenhamn,Danmark,2025-01-29,3 februari 2025,2,Endast boende,11650.1,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,,,
+RES-2025-00085,2025-01-20,KUND-06061,Tromsø,Norge,2025-02-24,2025-02-27,6,All inclusive,74720.1,SEK,Clarion Hotel The Edge,Telefon,Avbokad,2025-01-24,,,
+RES-2025-00086,2025-01-19,KUND-05051,Tromsø,Norge,2025-02-27,2025-03-04,3,Halvpension,25454.1,SEK,Smarthotel Tromsø,Webb,Genomförd,,,,
+RES-2025-00087,2025-01-09,KUND-08846,Köpenhamn,Danmark,2025-01-30,2025-02-02,5,Helgpaket,16796.0,SEK,Hotel D'Angleterre,App,Genomförd,,Kommer definitivt åka hit igen nästa år!,2025-02-16,5
+RES-2025-00088,11/01/2025,KUND-05051,Tromsøø,Norge,2025-03-08,2025-03-13,2,All inclusive,52131.8,SEK,Clarion Hotel The Edge,App,Genomförd,,Romantisk resa till Tromsø. Helt underbart.,2025-03-22,4
+RES-2025-00089,2025-01-27,KUND-06205,Köpenhamn,Danmark,2025-02-09,2025-02-12,2,Weekend-paket,8647.9,SEK,Hotel D'Angleterre,Webb,Genomförd,,"Mysig stad, trevliga restauranger, fin stämning.",2025-02-18,4
+RES-2025-00090,2025-01-05,KUND-06278,Tromsø,,2025-02-24,2025-03-01,2,All inclusive,29028.3,SEK,Smarthotel Tromsø,Webb,Genomförd,,,,
+RES-2025-00091,2025-01-01,KUND-08003,Helsingfross,Finland,2025-02-21,2025-02-24,2,All inclusive,37101.6,SEK,Omena Hotel,App,Färdig,,,,
+RES-2025-00092,2025-01-16,KUND-07700,Tromsø,Norge,2025-02-07,2025-02-11,2,RO,1036.6,EUR,Clarion Hotel The Edge,Webb,Genomförd,,Rekommenderas varmt! Vi hade det så bra.,2025-02-15,5
+RES-2025-00093,2025-01-02,KUND-08386,Reykjavik,Island,2025-02-24,2025-03-01,4,Bed & Breakfast,66729.6,SEK,CenterHotel Midgardur,,Genomförd,,Fantastisk resa! Norrskenet var magiskt.,2025-03-08,4
+RES-2025-00094,2025-01-25,KUND-06317,OSLO,Norge,2025-03-03,2025-03-07,2,Endast boende,16326.0,SEK,Comfort Hotel Grand Central,Webb,Genomförd,,"Lagom resa, kunde varit bättre.",2025-03-12,3
+RES-2025-00095,2025-01-19,KUND-05231,Rovaniemi,Finland,2025-01-27,2025-01-29,3,Weekend-paket,1610.3,EUR,Arctic TreeHouse Hotel,Webb,Genomförd,,,,
+RES-2025-00096,2025-01-01,KUND-05430,Tromsø,,2025-02-21,2025-02-24,3,All inclusive,59809.2,SEK,Smarthotel Tromsø,Webb,Genomförd,,,,
+RES-2025-00097,2025-01-14,KUND-05615,Reykjavik,Island,2025-03-11,2025-03-16,2,All inclusive,59634.4,SEK,,App,Genomförd,,,,
+RES-2025-00098,2025-01-02,KUND-05740,Köpnhamn,Danmark,2025-01-14,2025-01-16,2,Weekend-paket,4652.9,SEK,Comfort Hotel Vesterbro,App,Genomförd,,,,
+RES-2025-00099,2025-01-08,KUND-08781,Reykjavik,Island,2025-03-01,2025-03-05,2,All inclusive,44466.8,,CenterHotel Midgardur,Webb,Genomförd,,Hotellet överträffade förväntningarna. Toppklass!,2025-03-10,4
+RES-2025-00100,2025-01-27,KUND-07131,Köpenhamn,,2025-02-09,2025-02-12,3,Weekend-paket,14524.8,SEK,,App,Genomförd,,,,
+RES-2025-00101,2025-01-26,KUND-08587,Helsingfors,Finland,2025-03-17,2025-03-22,4,Halvpension,32328.0,SEK,Omena Hotel,Webb,Genomförd,,,,
+RES-2025-00102,2025-01-14,KUND-06192,Köpenhamn,Danmark,2025-02-25,2025-02-28,5,Allt ingår,80002.0,SEK,Hotel D'Angleterre,,Genomförd,,Smidigt att boka och allt fungerade perfekt.,2025-03-15,5
+RES-2025-00103,2025-01-06,KUND-05575,Trondheim,Norge,2025-02-25,2025-02-28,1,Halvpension,11430.4,SEK,Comfort Hotel Trondheim,Telefon,Genomförd,,,,
+RES-2025-00104,2025-01-25,KUND-06992,Tromsø,Norge,2025-03-09,2025-03-13,2,All inclusive,2733.4,EUR,Smarthotel Tromsø,Webb,Genomförd,,,,
+RES-2025-00105,2025-01-26,KUND-05309,Köpenhamn,Danmark,2025-01-31,2025-02-02,2,Weekend-paket,768.25,EUR,Comfort Hotel Vesterbro,App,Genomförd,,,,
+RES-2025-00106,2025-01-27,KUND-08885,Köpenhamn,Danmark,2025-02-27,2025-03-04,2,bara hotell,6160.8,SEK,Comfort Hotel Vesterbro,App,Genomförd,,"Hotellet var bra, men läget kunde varit bättre.",2025-03-09,3
+RES-2025-00107,2025-01-24,KUND-06858,Tromsø,Norge,2025-02-20,2025-02-23,2,Endast boende,17705.4,SEK,Smarthotel Tromsø,Webb,Genomförd,,Northern lights tour var höjdpunkten!,2025-03-03,4
+RES-2025-00108,2025-01-26,KUND-08198,Reykjavik,Island,2025-03-07,2025-03-11,2,Halvpension,27081.6,SEK,CenterHotel Midgardur,App,Genomförd,,Kommer definitivt åka hit igen nästa år!,2025-03-16,4
+RES-2025-00109,2025-01-23,KUND-06685,Reykjavik,Island,2025-03-02,2025-03-04,2,Weekend-paket,1180.38,EUR,Hotel Borg,Webb,Genomförd,,Norrskenet gjorde hela resan värd det.,2025-03-21,4
+RES-2025-00110,2025-01-08,KUND-06751,Köpnhamn,Danmark,2025-01-16,2025-01-18,2,Weekend-paket,7055.0,SEK,Comfort Hotel Vesterbro,Webb,Avbokad,2025-01-04,,,
+RES-2025-00111,2025-01-19,KUND-07905,Köpenhamn,Danmark,2025-01-28,2025-01-31,1,Endast boende,413.84,EUR,Hotel D'Angleterre,Webb,Avbokad,2025-01-23,,,
+RES-2025-00112,2025-01-19,KUND-07036,Tromsø,Norge,2025-02-24,1 mars 2025,2,Endast boende,17017.7,SEK,Clarion Hotel The Edge,Telefon,Genomförd,,Såg norrsken tre av fyra kvällar. Fantastiskt!,2025-03-20,5
+RES-2025-00113,2025-01-05,KUND-05537,Reykajvik,Island,2025-02-09,2025-02-14,2,Endast boende,15145.2,SEK,CenterHotel Midgardur,Webb,Done,,Norrskenet gjorde hela resan värd det.,2025-02-27,4
+RES-2025-00114,13-01-2025,KUND-06630,Trondheim,Norge,2025-02-28,2025-03-04,3,All inclusive,3691.12,EUR,Britannia Hotel,Telefon,Genomförd,,Bästa resan vi gjort. Trondheim är otroligt!,2025-03-06,5
+RES-2025-00115,2025-01-03,KUND-07915,Köpenhamnn,Danmark,2025-01-14,2025-01-17,3,Weekend-paket,12390.45,SEK,Comfort Hotel Vesterbro,App,Genomförd,,All inclusive var värt pengarna. Inga bekymmer.,2025-02-06,4
+RES-2025-00116,2025-01-22,KUND-06072,Reykjavik,Island,2025-03-07,2025-03-11,2,Endast boende,15783.6,SEK,Hotel Borg,Webb,Genomförd,,,,
+RES-2025-00117,2025-01-19,KUND-06590,Helsingfors,Finland,2025-02-05,2025-02-08,2,Weekend-paket,10562.4,SEK,,App,Genomförd,,,,
+RES-2025-00118,2025-01-23,KUND-06678,Tromsö,Norge,2025-02-20,2025-02-25,4,Bed & Breakfast,2494.0,EUR,Smarthotel Tromsø,Webb,Genomförd,,,,
+RES-2025-00119,23 januari 2025,KUND-08024,Köpenhamn,Danmark,2025-03-05,2025-03-09,3,Full Board,34572.9,SEK,Hotel Scandic Copenhagen,Telefon,Genomförd,,Bästa resan vi gjort. Köpenhamn är otroligt!,2025-03-21,4
+RES-2025-00120,2025-01-01,KUND-06644,Köpenhamn,Danmark,2025-02-03,2025-02-07,2,All inclusive,39644.0,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,,,
+RES-2025-00121,2025-01-11,KUND-06068,Oslo,Norge,2025-02-08,2025-02-12,3,Halvpension,25851.0,SEK,Hotel Continental,web,Genomförd,,,,
+RES-2025-00122,2025-01-05,KUND-08885,Tromsø,Norge,2025-02-25,2025-03-02,3,All inclusive,55455.3,SEK,Smarthotel Tromsø,Telefon,Genomförd,,,,
+RES-2025-00123,2025-01-01,KUND-08954,Oslo,Norge,2025-02-17,2025-02-20,2,All inclusive,46598.0,SEK,Hotel Continental,Telefon,Genomförd,,Fantastisk resa! Norrskenet var magiskt.,2025-03-13,4
+RES-2025-00124,2025-01-19,KUND-08331,Reykjavik,Island,2025-03-23,2025-03-27,2,Halvpension,19748.4,SEK,CenterHotel Midgardur,Webb,Genomförd,,,,
+RES-2025-00125,"January 18, 2025",KUND-07690,Köpnhamn,Danmark,2025-02-24,2025-02-27,4,Halvpension,31120.2,SEK,Hotel D'Angleterre,Webb,Genomförd,,Fantastiskt väder och härliga upplevelser.,2025-03-16,5
+RES-2025-00126,18/01/2025,KUND-05152,Oslo,Norge,2025-02-14,2025-02-17,2,Weekend-paket,10888.0,SEK,Hotel Continental,Webb,Genomförd,,Hotellet överträffade förväntningarna. Toppklass!,2025-03-09,5
+RES-2025-00127,2025-01-24,KUND-08899,Köpenhamn,Danmark,2025-02-14,2025-02-17,2,Weekend-paket,7826.8,SEK,Hotel Scandic Copenhagen,App,Genomförd,,,,
+RES-2025-00128,2025-01-23,KUND-05675,Tromsø,Norge,9 februari 2025,2025-02-12,2,Weekend-paket,6909.2,NOK,Smarthotel Tromsø,Telefon,Genomförd,,,,
+RES-2025-00129,2025-01-13,KUND-06068,Reykjavik,Island,2025-02-23,2025-03-02,2,Endast boende,24320.8,SEK,Hotel Borg,Webb,Avbeställd,2025-01-28,,,
+RES-2025-00130,2025-01-10,KUND-05684,Reykajvik,Island,2025-03-15,2025-03-21,2,All inclusive,3690.64,EUR,CenterHotel Midgardur,Telefon,Genomförd,,Perfekt weekendresa till Reykjavik. Kommer tillbaka!,2025-04-06,5
+RES-2025-00131,2025-01-05,KUND-08541,Köpenhamnn,Danmark,2025-01-10,2025-01-13,2,Weekend-paket,5321.0,SEK,Comfort Hotel Vesterbro,App,Genomförd,,,,
+RES-2025-00132,2025-01-02,KUND-05940,Tromsø,Norge,2025-02-07,2025-02-11,4,Full Board,7412.4,EUR,Clarion Hotel The Edge,Webb,Genomförd,,Northern lights tour var höjdpunkten!,2025-02-23,5
+RES-2025-00133,2025-01-07,KUND-05930,Reykjavik,Island,2025-03-20,2025-03-24,4,All inclusive,134797.6,SEK,Hotel Borg,,Genomförd,,,,
+RES-2025-00134,2025-01-20,KUND-07624,Rovaniemi,Finland,2025-03-12,2025-03-15,1,All inclusive,14980.8,SEK,Arctic TreeHouse Hotel,Webb,Genomförd,,Smidigt att boka och allt fungerade perfekt.,2025-04-02,4
+RES-2025-00135,2025-01-07,KUND-05065,Tromso,Norge,2025-01-23,2025-01-27,1,Endast boende,7759.05,SEK,Smarthotel Tromsø,Webb,Genomförd,,Northern lights tour var höjdpunkten!,2025-02-02,4
+RES-2025-00136,2025-01-20,KUND-06375,oslo,Norge,2025-03-09,2025-03-12,1,Halvpension,13406.0,NOK,Hotel Continental,Telefon,Genomförd,,,,
+RES-2025-00137,2025-01-27,KUND-07936,Oslo,Norge,2025-02-13,2025-02-16,2,Weekend-paket,11108.0,SEK,Hotel Continental,Telefon,Genomförd,,,,
+RES-2025-00138,2025-01-04,KUND-08808,Oslo,Norge,2025-01-22,2025-01-25,2,Room Only,15776.0,NOK,Thon Hotel Opera,Webb,Genomförd,,Rekommenderas varmt! Vi hade det så bra.,2025-02-06,4
+RES-2025-00139,2025-01-04,KUND-08090,Köpenhamn,,2025-01-09,2025-01-11,2,Weekend-paket,5817.29,DKK,Hotel Scandic Copenhagen,,Genomförd,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-01-23,4
+RES-2025-00140,2025-01-23,KUND-06038,Tromsø,Norge,2025-02-28,2025-03-04,5,Halvpension,36524.0,NOK,,,Genomförd,,,,
+RES-2025-00141,2025-01-23,KUND-08893,Reykjavik,,2025-02-23,2025-03-02,2,Endast Boende,15416.8,SEK,Bus Hostel Reykjavik,Webb,Genomförd,,,,
+RES-2025-00142,2025-01-28,KUND-06182,Tromsø,Norge,2025-02-10,2025-02-13,3,Weekend-paket,14214.0,SEK,Smarthotel Tromsø,Telefon,Färdig,,Perfekt weekendresa till Tromsø. Kommer tillbaka!,2025-03-05,4
+RES-2025-00143,2025-01-16,KUND-07529,Köpenhamn,Danmark,2025-02-07,2025-02-11,2,Endast boende,1089.03,,Hotel D'Angleterre,App,Genomförd,,"Perfekt planerad resa, inget att klaga på.",2025-02-20,5
+RES-2025-00144,2025-01-02,KUND-07671,Rovaniemi,,2025-02-07,2025-02-10,2,Halvpension,25768.8,SEK,Arctic TreeHouse Hotel,Webb,Genomförd,,,,
+RES-2025-00145,2025-01-05,KUND-07408,Tromsø,Norge,2025-01-31,2025-02-03,4,Endast boende,19071.6,NOK,,App,Genomförd,,,,
+RES-2025-00146,2025-02-11,KUND-05323,Trondheim,Norge,2025-02-04,2025-02-07,1,Halvpension,12134.35,SEK,Comfort Hotel Trondheim,Webb,Genomförd,,,,
+RES-2025-00147,2025-01-23,KUND-06435,Köpenhamn,Danmark,2025-02-02,2025-02-05,2,Endast boende,6080.9,SEK,Hotel D'Angleterre,Webb,Avbokad,2025-01-24,,,
+RES-2025-00148,2025-01-24,KUND-08846,Tromsø,Norge,2025-02-23,2025-02-26,1,Endast boende,9288.55,SEK,Smarthotel Tromsø,Telefon,Genomförd,,,,
+RES-2025-00149,2025-01-06,KUND-05042,Tromsø,Norge,2025-01-11,2025-01-14,1,Weekendresa,5865.0,SEK,Smarthotel Tromsø,App,Färdig,,Northern lights tour var höjdpunkten!,2025-01-22,4
+RES-2025-00150,2025-01-09,KUND-08098,Oslo,Norge,2025-02-13,2025-02-10,3,Halvpension,20082.0,SEK,Thon Hotel Opera,web,Genomförd,,,,
+RES-2025-00151,2025-01-13,KUND-06740,trondheim,Norge,2025-02-16,2025-02-20,4,Bed & Breakfast,52903.6,NOK,Britannia Hotel,Webb,Genomförd,,Bästa resan vi gjort. Trondheim är otroligt!,2025-03-10,5
+RES-2025-00152,2025-02-17,KUND-06664,Tromsøø,Norge,2025-02-15,2025-02-20,2,Bed & Breakfast,13829.9,SEK,Smarthotel Tromsø,Telefon,Färdig,,Norrskenet var magiskt! Värt hela resan.,2025-02-27,4
+RES-2025-00153,2025-01-13,KUND-08365,Köpenhamn,Danmark,2025-02-14,2025-02-19,3,Halvpension,17161.5,SEK,Hotel D'Angleterre,app,Genomförd,,Fantastisk resa! Norrskenet var magiskt.,2025-03-09,5
+RES-2025-00154,2025-01-09,KUND-08006,Köpenhman,Danmark,2025-01-26,2025-01-28,2,Weekendresa,10058.9,SEK,Hotel D'Angleterre,Telefon,Genomförd,,,,
+RES-2025-00155,2025-01-19,KUND-08887,Köpenhamn,Danmark,2025-02-28,2025-03-05,2,Halvpension,12506.9,SEK,Hotel Scandic Copenhagen,Webb,Done,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-03-26,4
+RES-2025-00156,2025-01-27,KUND-06655,Köpenhamn,Danmark,2025-02-01,2025-02-04,2,Weekend-paket,6832.3,,Comfort Hotel Vesterbro,Webb,Genomförd,,,,
+RES-2025-00157,2025-01-19,KUND-08712,Reykjavik,Island,2025-03-03,2025-03-08,2,Halvpension,21901.6,SEK,Bus Hostel Reykjavik,Webb,Genomförd,,,,
+RES-2025-00158,2025-01-20,KUND-07140,Reykjavik,,2025-03-25,2025-03-31,2,All inclusive,30178.4,SEK,CenterHotel Midgardur,Telefon,Avbokad,2025-01-27,,,
+RES-2025-00159,2025-01-05,KUND-07838,Helsingfors,,2025-02-12,2025-02-15,4,Halvpension,23212.8,SEK,Original Sokos Hotel,Telefon,Genomförd,,Hotellet överträffade förväntningarna. Toppklass!,2025-02-26,4
+RES-2025-00160,2025-01-01,KUND-06611,Reykjavik,Island,2025-01-31,2025-02-02,1,Weekend-paket,4748.8,,CenterHotel Midgardur,Webb,Genomförd,,"Fungerade, men jag hade väntat mig mer för priset.",2025-02-13,3
+RES-2025-00161,2025-01-17,KUND-05721,Reykjavik,Island,2025-03-17,2025-03-21,2,All inclusive,52715.6,SEK,Bus Hostel Reykjavik,Telefon,Genomförd,,Rummet var för litet och dåligt städat.,2025-04-10,2
+RES-2025-00162,2025-01-19,KUND-08437,Tromsø,Norge,2025-03-04,2025-03-08,2,Halvpension,29458.4,NOK,Clarion Hotel The Edge,App,Avbokad,2025-02-24,,,
+RES-2025-00163,2025-01-03,KUND-07408,Tromsø,Norge,2025-02-20,2025-02-23,2,Halvpension,14492.3,SEK,Smarthotel Tromsø,App,Completed,,Bra flygtider men maten på hotellet var medioker.,2025-03-13,3
+RES-2025-00164,2025-01-03,KUND-08394,Reykjavik,Island,2025-02-24,2025-03-02,4,Halvpension,61840.8,SEK,Bus Hostel Reykjavik,Internet,Genomförd,,Helt okej resa. Varken mer eller mindre.,2025-03-14,3
+RES-2025-00165,2025-01-24,KUND-06453,Rovaniemi,Finland,2025-03-05,2025-03-10,2,Halvpension,29162.4,SEK,Scandic Rovaniemi,Telefon,Genomförd,,,,
+RES-2025-00166,2025-01-07,KUND-08765,Köpenhamn,Danmark,2025-01-27,2025-01-30,2,Endast boende,5521.6,,Hotel Scandic Copenhagen,App,Genomförd,,,,
+RES-2025-00167,2025-01-07,KUND-06355,Reykjavik,Island,2025-02-16,2025-02-22,3,Endast boende,25170.6,SEK,Hotel Borg,Telefon,Genomförd,,Allting klaffade från början till slut.,2025-03-15,5
+RES-2025-00168,2025-01-11,KUND-05565,Oslo,Norge,2025-01-16,2025-01-18,2,Weekend-paket,7588.0,NOK,Hotel Continental,Webb,Genomförd,,Romantisk resa till Oslo. Helt underbart.,2025-01-20,5
+RES-2025-00169,2025-01-06,KUND-07103,Köpenhamnn,Danmark,2025-01-23,2025-01-26,2,Weekend-paket,756.87,EUR,Hotel D'Angleterre,Mobil,Genomförd,,,,
+RES-2025-00170,2025-01-02,KUND-06181,Reykjavk,Island,2025-01-26,2025-01-28,1,Weekend-paket,6612.2,SEK,CenterHotel Midgardur,App,Genomförd,,,,
+RES-2025-00171,2025-01-20,KUND-07869,Köpenhamn,Danmark,2025-03-05,2025-03-10,2,Full Board,17254.45,DKK,Hotel D'Angleterre,App,Genomförd,,,,
+RES-2025-00172,2025-01-18,KUND-08899,Reykjavik,Island,2025-03-11,2025-03-16,5,Endast boende,25970.0,SEK,Hotel Borg,Webb,Genomförd,,Fantastiskt väder och härliga upplevelser.,2025-03-27,5
+RES-2025-00173,2025-01-15,KUND-07274,Oslo,Norge,2025-03-08,2025-03-13,3,All inclusive,69924.0,SEK,Comfort Hotel Grand Central,Telefon,Avbokad,2025-02-06,,,
+RES-2025-00174,2025-01-14,KUND-06634,Tromsø,Norge,2025-02-18,2025-02-23,6,All inclusive,103741.5,SEK,Smarthotel Tromsø,WEBB,Genomförd,,"Hotellet var bra, men läget kunde varit bättre.",2025-03-12,3
+RES-2025-00175,2025-01-28,KUND-05645,Helsingfors,Finland,2025-02-15,2025-02-19,2,Endast boende,12346.2,SEK,Original Sokos Hotel,Webb,Genomförd,,"Fungerade, men jag hade väntat mig mer för priset.",2025-03-08,3
+RES-2025-00176,2025-01-14,KUND-07037,ROVANIEMI,Finland,2025-02-06,2025-02-09,2,Weekend-paket,9664.8,SEK,Arctic TreeHouse Hotel,App,Genomförd,,Romantisk resa till Rovaniemi. Helt underbart.,2025-02-21,5
+RES-2025-00177,2025-01-07,KUND-08730,Helsingfors,Finland,2025-02-26,2025-03-03,2,Halvpension,15161.4,SEK,Hotel Kämp,App,Avbokad,2025-02-02,,,
+RES-2025-00178,2025-01-15,KUND-06120,Köpenhamn,Danmark,2025-01-30,2025-02-02,6,Weekend-paket,18149.42,DKK,Hotel D'Angleterre,Webb,Genomförd,,,,
+RES-2025-00179,2025-01-21,KUND-07367,Reykjavik,Island,2025-02-13,2025-02-15,2,Weekend-paket,11866.4,SEK,Bus Hostel Reykjavik,App,Genomförd,,,,
+RES-2025-00180,2025-01-07,KUND-08207,Tromsøø,Norge,2025-01-30,2025-02-01,2,Weekend-paket,11700.1,NOK,Smarthotel Tromsø,Webb,Genomförd,,,,
+RES-2025-00181,2025-01-12,KUND-07143,Tromsø,Norge,2025-02-14,2025-02-18,2,Endast boende,16311.6,SEK,Clarion Hotel The Edge,App,Genomförd,,,,
+RES-2025-00182,2025-01-19,KUND-07379,Trondheim,Norge,2025-02-12,2025-02-15,3,Weekend-paket,16909.05,SEK,Britannia Hotel,Webb,Genomförd,,,,
+RES-2025-00183,2025-01-04,KUND-06144,Köpenhamn,Danmark,2025-01-09,2025-01-11,4,Weekend-paket,12790.58,DKK,Hotel Scandic Copenhagen,Webb,Done,,,,
+RES-2025-00184,2025-01-27,KUND-08006,Rovaniem,Finland,2025-02-28,2025-03-03,2,Halvpension,30336.0,SEK,Arctic TreeHouse Hotel,Internet,Genomförd,,,,
+RES-2025-00185,2025-01-03,KUND-07671,Trondheim,Norge,2025-02-21,2025-02-24,4,Halvpension,24190.8,SEK,Comfort Hotel Trondheim,Telefon,Genomförd,,,,
+RES-2025-00186,2025-01-23,KUND-07395,Köpenhamn,Danmark,2025-02-03,2025-02-05,1,Weekend-paket,2760.58,DKK,Hotel D'Angleterre,App,Genomförd,,,,
+RES-2025-00187,2025-01-26,KUND-07808,Oslo,Norge,2025-03-14,2025-03-18,2,All inclusive,35972.0,SEK,Comfort Hotel Grand Central,Telefon,Genomförd,,,,
+RES-2025-00188,2025-01-07,KUND-08741,Köpenhamn,Danmark,2025-01-12,2025-01-14,2,Weekend-paket,6856.1,SEK,Hotel D'Angleterre,Webb,Genomförd,,Hotellet överträffade förväntningarna. Toppklass!,2025-01-17,5
+RES-2025-00189,2025-01-22,KUND-07624,Reykjavik,Island,2025-03-22,2025-03-29,2,Halvpension,23814.0,SEK,CenterHotel Midgardur,,Avbokad,2025-03-06,,,
+RES-2025-00190,2025-01-01,KUND-05863,Reykajvik,Island,2025-02-11,2025-02-14,6,Weekendresa,39900.0,SEK,Hotel Borg,Telefon,Genomförd,,Romantisk resa till Reykjavik. Helt underbart.,2025-03-04,5
+RES-2025-00191,2025-01-26,KUND-07629,Rovaniemi,Finland,2025-02-21,2025-02-23,3,Weekend-paket,18003.6,SEK,Arctic TreeHouse Hotel,App,Genomförd,,Norrskenet gjorde hela resan värd det.,2025-03-07,5
+RES-2025-00192,2025-01-20,KUND-08614,Bergen,,2025-03-03,2025-03-06,2,Halvpension,23048.0,SEK,Hotel Norge,Webb,Genomförd,,,,
+RES-2025-00193,2025-01-06,KUND-06728,Rovaniemi,Finland,2025-02-14,2025-02-17,5,Endast boende,19890.0,SEK,Arctic TreeHouse Hotel,Mobile,Genomförd,,Fantastisk resa! Norrskenet var magiskt.,2025-03-02,5
+RES-2025-00194,2025-01-09,KUND-05930,Rovaniemi,Finland,2025/02/08,2025-02-13,2,Endast boende,12991.2,SEK,Arctic TreeHouse Hotel,,Genomförd,,,,
+RES-2025-00195,2025-01-24,KUND-07287,Köpenhamn,Danmark,2025-02-25,2025-03-02,2,Halvpension,1253.27,EUR,Comfort Hotel Vesterbro,Webb,Genomförd,,,,
+RES-2025-00196,2025-01-03,KUND-06511,Oslo,Norge,2025-01-26,2025-01-29,2,Weekend-paket,6822.0,SEK,Thon Hotel Opera,Webb,Genomförd,,Fantastiskt väder och härliga upplevelser.,2025-02-12,4
+RES-2025-00197,2025-01-11,KUND-07671,Köpenhman,,2025-02-02,2025-02-04,5,Weekend-paket,18623.5,SEK,Hotel D'Angleterre,Webb,Genomförd,,,,
+RES-2025-00198,2025-01-22,KUND-07539,Köpenhamn,Danmark,2025-02-20,2025-02-25,1,All inclusive,13257.45,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,,,
+RES-2025-00199,2025-01-09,KUND-05337,Tromsø,Norge,2025-02-17,2025-02-20,1,All inclusive,22076.55,SEK,Clarion Hotel The Edge,Webb,Genomförd,,Northern lights tour var höjdpunkten!,2025-03-05,4
+RES-2025-00200,2025-01-04,KUND-07012,Reykjavik,Island,2025-02-28,2025-03-07,4,All inclusive,122752.0,SEK,Hotel Borg,Online,Avbokad,2025-01-11,,,
+RES-2025-00201,2025-01-20,KUND-07322,Oslo,Norge,2025-02-13,2025-02-15,2,Weekend-paket,7166.0,SEK,Hotel Continental,Webb,Genomförd,,Kommer definitivt åka hit igen nästa år!,2025-02-19,5
+RES-2025-00202,2025-01-05,KUND-07349,Tromsøø,Norge,2025-01-21,2025-01-26,2,Endast boende,14151.9,NOK,Smarthotel Tromsø,App,Genomförd,,,,
+RES-2025-00203,2025-01-19,KUND-07297,Köpenhamn,Danmark,9 februari 2025,2025-02-13,2,Halvpension,21411.5,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,,,
+RES-2025-00204,2025-01-21,KUND-05315,Tromsø,Norge,2025-02-26,2025-03-03,2,All inclusive,4647.0,EUR,Clarion Hotel The Edge,Telefon,Genomförd,,En upplevelse för livet att se norrskenet.,2025-03-19,4
+RES-2025-00205,2025-01-02,KUND-05612,Reykjavik,Island,2025-03-15,2025-03-21,2,All inclusive,62258.0,SEK,CenterHotel Midgardur,Webb,Genomförd,,,,
+RES-2025-00206,"January 21, 2025",KUND-05765,Rovaniemi,Finland,2025-03-10,2025-03-15,2,Halvpension,14436.0,SEK,Scandic Rovaniemi,App,Genomförd,,,,
+RES-2025-00207,2025-01-27,KUND-08313,Reykjavik,Island,2025/02/17,2025-02-20,1,Weekend-paket,3991.4,SEK,,Webb,Färdig,,Fantastiskt väder och härliga upplevelser.,2025-02-27,5
+RES-2025-00208,2025-01-26,KUND-05219,Köpenhamn,Danmark,2025-02-28,2025-03-04,2,All inclusive,17460.7,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,"Mysig stad, trevliga restauranger, fin stämning.",2025-03-24,5
+RES-2025-00209,2025-01-08,KUND-08998,Tromsø,Norge,2025-01-29,2025-02-01,3,Weekend-paket,19675.35,SEK,Clarion Hotel The Edge,Mobile,Genomförd,,,,
+RES-2025-00210,2025-01-08,KUND-07980,Tromsö,Norge,2025-03-02,2025-03-06,1,All inclusive,21692.45,SEK,Clarion Hotel The Edge,Telefon,Avbokad,2025-02-25,,,
+RES-2025-00211,2025-01-22,KUND-08640,Reykjavik,Island,2025-03-15,2025-03-19,2,Halvpension,16956.8,SEK,CenterHotel Midgardur,App,Genomförd,,,,
+RES-2025-00212,2025-01-02,KUND-07941,Tromso,Norge,2025-02-15,2025/02/19,2,Halvpension,20736.8,SEK,Clarion Hotel The Edge,App,Genomförd,,Norrskenet var magiskt! Värt hela resan.,2025-02-28,5
+RES-2025-00213,2025-01-18,KUND-08887,Tromsö,Norge,2025-03-05,2025-03-10,2,Halvpension,26962.9,SEK,Smarthotel Tromsø,Telefon,Genomförd,,Bra flygtider men maten på hotellet var medioker.,2025-03-13,3
+RES-2025-00214,2025-01-26,KUND-07629,Tromsø,Norge,2025-02-09,2025-02-11,1,Weekend-paket,5347.5,,Clarion Hotel The Edge,Tel,Genomförd,,,,
+RES-2025-00215,2025-01-27,KUND-06331,Köpenhamn,Danmark,2025-02-13,2025-02-16,2,Weekend-paket,9985.8,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,,,
+RES-2025-00216,2025-01-08,KUND-08539,Tromsö,Norge,2025-02-18,2025-02-23,1,Halvpension,11137.75,NOK,,Webb,Färdig,,,,
+RES-2025-00217,2025-02-04,KUND-07934,Köpenhamn,Danmark,2025-03-09,2025-03-13,2,Endast boende,13560.9,SEK,,Webb,Genomförd,,,,
+RES-2025-00218,"February 28, 2025",KUND-05825,Köpenhamn,Danmark,2025-04-19,2025-04-23,2,All inclusive,19040.0,SEK,Hotel D'Angleterre,Webb,Bekräftad,,,,
+RES-2025-00219,2025-02-04,KUND-07589,Köpenhamn,Danmark,2025-02-20,2025-02-23,2,Weekend-paket,5328.13,DKK,Hotel Scandic Copenhagen,Website,Genomförd,,Perfekt weekendresa till Köpenhamn. Kommer tillbaka!,2025-03-12,5
+RES-2025-00220,2025-02-10,KUND-08202,Tromsö,Norge,2025-02-19,2025-02-22,2,Weekend-paket,9602.5,NOK,Smarthotel Tromsø,App,Genomförd,,Bra flygtider men maten på hotellet var medioker.,2025-03-11,3
+RES-2025-00221,2025-02-16,KUND-07816,Tromsøø,Norge,2025-03-14,2025-03-17,2,Endast boende,19218.8,SEK,Clarion Hotel The Edge,Webb,Genomförd,,Norrskenet gjorde hela resan värd det.,2025-03-30,4
+RES-2025-00222,2025-02-08,KUND-08995,Reikjavik,Island,2025-04-01,2025-04-08,2,All inclusive,3921.46,EUR,Hotel Borg,Telefon,Bekräftad,,,,
+RES-2025-00223,2025-02-20,KUND-05898,Oslo,Norge,2025-04-11,2025-04-16,2,All inclusive,26394.0,SEK,Comfort Hotel Grand Central,Webb,Bekräftad,,,,
+RES-2025-00224,2025-02-04,KUND-06261,Köpenhamn,Danmark,2025-03-10,2025-03-15,2,Halvpension,14001.2,SEK,Hotel Scandic Copenhagen,App,Genomförd,,,,
+RES-2025-00225,2025-02-26,KUND-08805,Oslo,Norge,2025-04-01,2025-04-04,2,Endast boende,6302.0,NOK,Comfort Hotel Grand Central,Webb,Bekräftad,,,,
+RES-2025-00226,2025-02-27,KUND-08035,Oslo,Norge,2025-04-02,2025-04-05,2,Bed & Breakfast,1781.04,EUR,Hotel Continental,Webb,Bekräftad,,,,
+RES-2025-00227,2025-02-21,KUND-06625,Tromsø,Norge,2025-04-14,2025-04-17,1,All inclusive,23702.65,SEK,Smarthotel Tromsø,Telefon,Bekräftad,,,,
+RES-2025-00228,2025-02-06,KUND-07977,Köpenhamn,Danmark,2025-02-11,2025-02-13,3,Weekend-paket,10845.15,SEK,Comfort Hotel Vesterbro,App,Genomförd,,,,
+RES-2025-00229,2025-02-27,KUND-06671,Helsingfors,Finland,2025-04-16,2025-04-19,2,All inclusive,44076.6,SEK,Omena Hotel,App,Bekräftad,,,,
+RES-2025-00230,19-02-2025,KUND-06108,Reykjavik,Island,2025-03-31,2025-04-04,3,Endast boende,25027.8,SEK,Hotel Borg,Webb,Bekräftad,,,,
+RES-2025-00231,2025-02-26,KUND-06998,Köpenhamn,Danmark,2025-03-03,2025-03-06,2,Weekendresa,10038.5,SEK,Comfort Hotel Vesterbro,App,Genomförd,,,,
+RES-2025-00232,2025-02-08,KUND-08511,Reykjavk,Island,2025-04-12,2025-04-19,3,All inclusive,103122.6,SEK,Hotel Borg,Telefon,Avbokad,2025-04-07,,,
+RES-2025-00233,2025-02-05,KUND-05379,Tromsø,,2025-02-23,2025-02-26,3,Endast Boende,1328.4,EUR,Clarion Hotel The Edge,,Genomförd,,Northern lights tour var höjdpunkten!,2025-03-02,4
+RES-2025-00234,2025-02-09,KUND-06440,Reykjavik,Island,2025-04-04,2025-04-11,0,Halvpension,33042.8,SEK,Hotel Borg,Telefon,Bekräftad,,,,
+RES-2025-00235,2025-02-23,KUND-08386,Trondheim,Norge,2025-03-24,2025-03-28,4,Endast boende,27793.2,SEK,Comfort Hotel Trondheim,Telefon,Genomförd,,Rekommenderas varmt! Vi hade det så bra.,2025-04-03,4
+RES-2025-00236,2025-02-28,KUND-06059,Oslo,Norge,2025-04-19,2025-04-22,2,FB,20322.0,SEK,Hotel Continental,Telefon,Conf,,,,
+RES-2025-00237,2025-02-10,KUND-06658,Rovaniemi,Finland,2025-04-06,2025-04-09,2,All inclusive,53289.6,SEK,Arctic TreeHouse Hotel,Telefon,Bekräftad,,,,
+RES-2025-00238,2025-02-25,KUND-08292,Köpenhamn,Danmark,2025-03-02,2025-03-04,1,Weekend-paket,4170.95,SEK,Hotel Scandic Copenhagen,,Genomförd,,,,
+RES-2025-00239,2025-04-13,KUND-05400,Oslö,Norge,2025-04-06,2025-04-11,2,Halvpension,12726.0,SEK,Hotel Continental,WEBB,Bekräftad,,,,
+RES-2025-00240,03-02-2025,KUND-06944,Köpenhamn,Danmark,2025-02-19,2025-02-22,2,Endast boende,5441.1,DKK,Comfort Hotel Vesterbro,App,Completed,,Hotellet överträffade förväntningarna. Toppklass!,2025-03-13,4
+RES-2025-00241,2025-02-13,KUND-06230,Trondheim,Norge,2025-02-18,2025-02-20,2,Kortresa,7136.4,NOK,Britannia Hotel,Telefon,Genomförd,,Rekommenderas varmt! Vi hade det så bra.,2025-02-25,5
+RES-2025-00242,2025-02-27,KUND-06218,Köpenhamn,Danmark,2025-03-26,2025-03-29,1,Halvpension,11740.2,SEK,Hotel D'Angleterre,app,Genomförd,,Bästa resan vi gjort. Köpenhamn är otroligt!,2025-04-12,5
+RES-2025-00243,2025-02-11,KUND-06109,Tromsø,Norge,2025-03-10,"March 15, 2025",2,Endast boende,17565.1,NOK,Smarthotel Tromsø,Webb,Genomförd,,,,
+RES-2025-00244,2025-02-03,KUND-06205,Oslo,Norge,2025-04-03,2025-04-08,2,FB,25856.0,SEK,Comfort Hotel Grand Central,Telefon,Avbokad,2025-02-05,,,
+RES-2025-00245,2025-02-06,KUND-05675,Tromsø,Norge,2025-02-11,2025-02-13,1,Helgpaket,3389.05,SEK,Clarion Hotel The Edge,App,Genomförd,,Norrskenet var magiskt! Värt hela resan.,2025-03-06,5
+RES-2025-00246,2025-02-16,KUND-06472,Trondheim,Norge,2025-03-09,2025-03-13,1,Endast boende,8416.05,SEK,Comfort Hotel Trondheim,Webb,Genomförd,,,,
+RES-2025-00247,2025-02-24,KUND-06355,Köpenhamn,Danmark,"March 01, 2025",2025-03-04,2,Weekend-paket,8272.2,SEK,Hotel D'Angleterre,App,Genomförd,,Kommer definitivt åka hit igen nästa år!,2025-03-11,5
+RES-2025-00248,2025-02-11,KUND-06305,Reykjavik,Island,2025-03-22,2025-03-25,1,Helgpaket,5048.4,SEK,CenterHotel Midgardur,App,Genomförd,,Fantastisk resa! Norrskenet var magiskt.,2025-04-13,5
+RES-2025-00249,14 februari 2025,KUND-07287,Helsingfors,Finland,2025-03-09,2025-03-14,1,Endast boende,4899.6,SEK,Hotel Kämp,Online,Genomförd,,,,
+RES-2025-00250,2025-02-25,KUND-07774,Oslo,Norge,2025-04-16,2025-04-20,2,All inclusive,38806.0,SEK,Thon Hotel Opera,Webb,Avbokad,2025-04-01,,,
+RES-2025-00251,2025-02-10,KUND-05323,Köpenhamn,Danmark,2025-02-17,2025-02-20,2,Weekend-paket,8619.0,SEK,Hotel D'Angleterre,Webb,Genomförd,,Smidigt att boka och allt fungerade perfekt.,2025-03-09,5
+RES-2025-00252,2025-02-02,KUND-08386,Trondheim,Norge,2025-03-08,13 mars 2025,2,Endast boende,11869.3,SEK,Comfort Hotel Trondheim,Webb,Avbokad,2025-02-19,,,
+RES-2025-00253,2025-02-12,KUND-08198,Reykjavik,Island,2025-04-14,2025-04-20,2,All inclusive,59035.2,SEK,CenterHotel Midgardur,Telefon,Bokat,,,,
+RES-2025-00254,2025-02-08,KUND-05984,Tromsø,Norge,2025-03-17,2025-03-22,2,Halvpension,14467.0,SEK,Clarion Hotel The Edge,Webb,Genomförd,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-04-02,4
+RES-2025-00255,2025-02-21,KUND-06616,Oslo,,2025-03-15,2025-03-17,1,Weekend-paket,4232.0,SEK,Comfort Hotel Grand Central,Webb,Genomförd,,Helt okej resa. Varken mer eller mindre.,2025-03-30,3
+RES-2025-00256,2025-02-24,KUND-07019,Trondheim,Norge,2025-04-18,2025-04-21,2,All inclusive,29472.8,SEK,Britannia Hotel,Webb,Bekräftad,,,,
+RES-2025-00257,2025-02-23,KUND-08539,Reykjavk,Island,2025-04-18,2025-04-22,2,All inclusive,53474.4,SEK,Bus Hostel Reykjavik,Webb,Bekräftad,,,,
+RES-2025-00258,2025-02-18,KUND-08803,Helsingfors,Finland,2025-02-23,2025-02-25,4,Helgpaket,19922.4,SEK,Omena Hotel,App,Genomförd,,,,
+RES-2025-00259,2025-02-23,KUND-08174,Reykjavik,Island,2025-03-27,2025-03-30,4,Weekend-paket,25681.6,SEK,CenterHotel Midgardur,,Genomförd,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-04-06,4
+RES-2025-00260,2025-02-04,KUND-08229,Oslo,Norge,2025-02-27,2025-03-02,2,Endast boende,805.57,EUR,Thon Hotel Opera,Webb,Genomförd,,,,
+RES-2025-00261,2025-02-10,KUND-06959,Tromsø,Norge,2025/03/14,2025-03-19,2,Halvpension,17843.4,NOK,Clarion Hotel The Edge,Telefon,Genomförd,,Allting klaffade från början till slut.,2025-03-31,5
+RES-2025-00262,2025-02-19,KUND-07728,Reykjavik,Island,2025-04-13,2025-04-18,3,Halvpension,26409.6,SEK,Hotel Borg,Telefon,Avbokad,2025-04-07,,,
+RES-2025-00263,2025-02-28,KUND-06554,Tromsø,Norge,2025-03-16,2025-03-18,3,Weekend-paket,15562.95,SEK,Smarthotel Tromsø,App,Genomförd,,"Hotellet var bra, men läget kunde varit bättre.",2025-04-03,3
+RES-2025-00264,2025-02-10,KUND-08788,Oslo,Norge,2025-02-19,2025-02-22,3,Weekendresa,9201.0,SEK,Thon Hotel Opera,Webb,Genomförd,,,,
+RES-2025-00265,2025-02-02,KUND-07863,Köpenhamn,Danmark,2025-02-07,2025-02-09,2,Weekend-paket,4506.65,DKK,Hotel D'Angleterre,App,Genomförd,,,,
+RES-2025-00266,2025-02-12,KUND-08460,Reykjavik,Island,2025-04-05,2025-04-11,1,Halvpension,10120.6,SEK,Bus Hostel Reykjavik,Webb,Bekräftad,,,,
+RES-2025-00267,2025-02-08,KUND-08829,Köpenhman,Danmark,2025-02-19,2025-02-21,6,Weekendresa,21312.9,SEK,Hotel Scandic Copenhagen,Telefon,Färdig,,Rekommenderas varmt! Vi hade det så bra.,2025-03-14,5
+RES-2025-00268,2025-02-01,KUND-07039,Köpenhman,Danmark,2025-02-14,2025-02-18,2,Endast boende,3938.52,DKK,Comfort Hotel Vesterbro,Webb,Completed,,"Ganska standard, inget att skriva hem om.",2025-03-10,3
+RES-2025-00269,2025-02-10,KUND-08108,Trondheim,Norge,2025-03-10,2025-03-13,1,Halvpension,9614.0,SEK,Comfort Hotel Trondheim,Webb,Genomförd,,,,
+RES-2025-00270,2025-02-03,KUND-06991,Köpnhamn,Danmark,2025-03-05,2025-03-10,2,Endast boende,14281.7,SEK,,Telefon,Genomförd,,,,
+RES-2025-00271,2025-02-03,KUND-07750,Köpenhamnn,Danmark,2025-03-23,2025-03-27,2,All inclusive,16260.77,DKK,Hotel D'Angleterre,Webb,Genomförd,,,,
+RES-2025-00272,2025-02-17,KUND-06181,Oslo,Norge,2025-04-15,2025-04-18,2,All inclusive,39478.0,SEK,Comfort Hotel Grand Central,telefon,Bekräftad,,,,
+RES-2025-00273,2025-02-02,KUND-05979,Reykjavik,Island,2025-04-12,2025-04-19,1,All inclusive,2922.47,EUR,Hotel Borg,App,Conf,,,,
+RES-2025-00274,2025-02-20,KUND-08069,Köpenhamn,Danmark,2025-03-03,5 mars 2025,2,Weekend-paket,554.64,EUR,Comfort Hotel Vesterbro,App,Genomförd,,Bästa resan vi gjort. Köpenhamn är otroligt!,2025-03-25,4
+RES-2025-00275,2025-02-03,KUND-06385,Tromsö,Norge,2025-03-10,2025-03-13,4,All inclusive,74060.0,SEK,Clarion Hotel The Edge,Tel,Genomförd,,Rekommenderas varmt! Vi hade det så bra.,2025-04-01,5
+RES-2025-00276,2025-02-18,KUND-05619,Bergen,Norge,2025-03-10,2025-03-13,2,Weekendresa,9162.0,SEK,Hotel Norge,App,Genomförd,,Perfekt weekendresa till Bergen. Kommer tillbaka!,2025-03-22,4
+RES-2025-00277,2025-02-24,KUND-06346,Helsingfors,Finland,2025-04-08,2025-04-13,2,All inclusive,26438.4,SEK,Hotel Kämp,Telefon,Bekräftad,,,,
+RES-2025-00278,2025-02-25,KUND-05420,Köpnhamn,Danmark,2025-04-14,2025-04-17,3,All inclusive,37120.35,SEK,Comfort Hotel Vesterbro,Ring,Bekräftad,,,,
+RES-2025-00279,2025-02-12,KUND-06136,Köpenhamn,Danmark,2025-02-23,2025-02-26,2,Weekend-paket,8987.9,SEK,Comfort Hotel Vesterbro,Online,Genomförd,,,,
+RES-2025-00280,2025-02-11,KUND-08202,Köpnhamn,Danmark,2025-03-02,2025-03-05,3,Weekend-paket,11130.75,SEK,Comfort Hotel Vesterbro,Telefon,Genomförd,,,,
+RES-2025-00281,2025-02-12,KUND-08816,Reykjavik,Island,2025-03-13,2025-03-15,3,Weekend-paket,12994.8,SEK,CenterHotel Midgardur,App,Canceled,2025-02-19,,,
+RES-2025-00282,2025-02-16,KUND-08648,Köpenhamn,Danmark,2025-03-11,2025-03-14,3,Bed & Breakfast,17921.4,SEK,Hotel D'Angleterre,Mobile,Genomförd,,,,
+RES-2025-00283,2025-02-10,KUND-07892,Rovaniemi,Finland,11-04-2025,2025-04-15,4,All inclusive,55742.4,SEK,Arctic TreeHouse Hotel,Webb,Avbokad,2025-03-16,,,
+RES-2025-00284,2025-02-01,KUND-05920,Tromsø,Norge,2025-02-26,2025-03-01,3,Weekend-paket,8890.65,NOK,Smarthotel Tromsø,Webb,Completed,,,,
+RES-2025-00285,2025-02-26,KUND-07934,Tromsø,Norge,2025-03-31,2025-04-04,2,Endast boende,17753.7,SEK,Clarion Hotel The Edge,Webb,Bekräftad,,,,
+RES-2025-00286,2025-02-15,KUND-08999,Rovaniemi,Finland,2025-03-07,2025-03-09,2,Weekend-paket,8563.2,SEK,Arctic TreeHouse Hotel,Webb,Genomförd,,Rekommenderas varmt! Vi hade det så bra.,2025-03-24,4
+RES-2025-00287,2025-02-04,KUND-08326,Rovaniemi,Finland,2025-03-24,2025-03-28,2,Halvpension,14853.6,SEK,Scandic Rovaniemi,Webb,Genomförd,,,,
+RES-2025-00288,2025-02-10,KUND-05247,Köpenhman,Danmark,2025-03-01,2025-03-03,2,Kortresa,4375.8,SEK,Hotel D'Angleterre,Webb,Genomförd,,,,
+RES-2025-00289,2025-02-28,KUND-06671,Rovaniemi,Finland,2025-03-21,2025-03-24,2,Helgpaket,958.75,EUR,Scandic Rovaniemi,App,Genomförd,,,,
+RES-2025-00290,2025-02-23,KUND-06854,Oslo,Norge,2025-03-22,2025-03-27,2,Endast boende,6396.0,SEK,,Telefon,Genomförd,,,,
+RES-2025-00291,2025-02-20,KUND-05755,Tromsö,Norge,2025-03-27,2025-04-01,2,Endast boende,18554.1,SEK,Clarion Hotel The Edge,Telefon,Bekräftad,,,,
+RES-2025-00292,2025-02-02,KUND-07505,Rovaniemi,Finland,2025-03-02,2025-03-06,2,Halvpension,20145.6,SEK,Arctic TreeHouse Hotel,Telefon,Genomförd,,,,
+RES-2025-00293,2025-02-18,KUND-05416,Tromsø,Norge,2025-04-03,2025-04-08,5,Halvpension,36581.5,SEK,Clarion Hotel The Edge,App,Bekräftad,,,,
+RES-2025-00294,2025-02-23,KUND-06126,Köpnhamn,Danmark,2025-02-28,2025-03-03,1,Weekend-paket,355.3,EUR,Hotel Scandic Copenhagen,App,Done,,,,
+RES-2025-00295,2025-02-28,KUND-05831,Trondheim,Norge,2025-04-04,2025-04-09,2,All inclusive,45660.8,SEK,Britannia Hotel,Webb,Bekräftad,,,,
+RES-2025-00296,2025-02-09,KUND-05164,Bergen,Norge,2025-03-24,2025-03-29,1,Halvpension,13684.0,SEK,Hotel Norge,Telefon,Genomförd,,Smidigt att boka och allt fungerade perfekt.,2025-04-15,4
+RES-2025-00297,2025-02-02,KUND-06533,Reykjavik,Island,2025-03-09,2025-03-11,1,Weekend-paket,5797.4,SEK,,Webb,Genomförd,,,,
+RES-2025-00298,2025-02-19,KUND-05337,Tromsø,Norge,2025-03-25,2025/03/28,2,Halvpension,25481.7,NOK,Clarion Hotel The Edge,Telefon,Genomförd,,,,
+RES-2025-00299,2025-02-25,KUND-08197,Reykjavik,Island,2025-04-30,"May 05, 2025",1,All inclusive,29890.0,SEK,Bus Hostel Reykjavik,Webb,Bekräftad,,,,
+RES-2025-00300,2025-02-25,KUND-08764,Reykjavik,Island,2025-04-23,2025-04-30,2,Halvpension,36562.4,SEK,Bus Hostel Reykjavik,TELEFON,Bekräftad,,,,
+RES-2025-00301,2025-02-05,KUND-06095,Oslo,Norge,2025-03-31,2025-04-05,2,All inclusive,24674.0,SEK,Thon Hotel Opera,Webb,Bekräftad,,,,
+RES-2025-00302,2025-02-11,KUND-05145,Tromso,Norge,2025-03-11,2025-03-14,1,Weekend-paket,2987.7,NOK,Clarion Hotel The Edge,App,Genomförd,,,,
+RES-2025-00303,2025-02-01,KUND-05248,Köpenhamn,Danmark,2025-02-12,2025-02-14,2,Weekend-paket,5172.39,DKK,Hotel D'Angleterre,App,Genomförd,,"Mysig stad, trevliga restauranger, fin stämning.",2025-03-05,5
+RES-2025-00304,2025-02-20,KUND-06355,Tromsø,Norge,2025-03-24,2025-03-29,2,Endast boende,1204.0,EUR,Clarion Hotel The Edge,Website,Genomförd,,,,
+RES-2025-00305,2025-02-09,KUND-08234,Oslo,Norge,2025-03-13,2025/03/16,2,Endast boende,8800.0,NOK,Comfort Hotel Grand Central,Telefon,Genomförd,,,,
+RES-2025-00306,2025-02-23,KUND-06038,Oslo,Norge,2025-04-12,2025-04-17,3,Halvpension,25191.0,SEK,Comfort Hotel Grand Central,Webb,Bekräftad,,,,
+RES-2025-00307,2025-02-26,KUND-05218,Reykjavik,Island,2025-04-09,2025-04-14,2,Halvpension,17382.4,SEK,CenterHotel Midgardur,APP,Bekräftad,,,,
+RES-2025-00308,2025-02-18,KUND-07589,Köpenhamn,Danmark,2025-03-21,2025-03-24,2,All inclusive,18468.8,SEK,Hotel Scandic Copenhagen,App,Avbokad,2025-03-03,,,
+RES-2025-00309,2025-02-06,KUND-08738,Helsingfors,Finland,2025-03-05,2025-03-09,2,Halvpension,17713.8,SEK,Hotel Kämp,Webb,Genomförd,,Bästa resan vi gjort. Helsingfors är otroligt!,2025-03-13,4
+RES-2025-00310,2025-02-07,KUND-08760,Tromsø,Norge,2025-03-09,2025-03-14,2,Halvpension,2679.6,EUR,Clarion Hotel The Edge,App,Genomförd,,,,
+RES-2025-00311,2025-02-04,KUND-08888,Tromsø,Norge,2025-03-23,2025-03-27,2,Halvpension,19018.7,NOK,Smarthotel Tromsø,Telefon,Genomförd,,,,
+RES-2025-00312,2025-02-02,KUND-08207,Reikjavik,Island,2025-03-17,21/03/2025,2,Endast boende,17329.2,SEK,Hotel Borg,Webb,Genomförd,,,,
+RES-2025-00313,2025-02-22,KUND-07362,Tromso,Norge,2025-03-24,2025-03-27,2,Endast boende,9689.9,NOK,Clarion Hotel The Edge,Webb,Genomförd,,"Mysig stad, trevliga restauranger, fin stämning.",2025-03-31,5
+RES-2025-00314,2025-02-10,KUND-08955,Bergen,Norge,2025-03-26,2025-03-29,3,Halvpension,18243.0,SEK,Hotel Norge,Webb,Genomförd,,,,
+RES-2025-00315,2025-02-09,KUND-07581,rovaniemi,Finland,2025-03-20,2025-03-24,2,All inclusive,40360.8,SEK,Scandic Rovaniemi,Webb,Genomförd,,Norrskenet gjorde hela resan värd det.,2025-04-09,4
+RES-2025-00316,2025-02-26,KUND-08111,Köpenhamn,,2025-03-16,2025-03-20,3,Halvpension,2975.52,EUR,Hotel D'Angleterre,Webb,Genomförd,,Norrskenet gjorde hela resan värd det.,2025-04-02,5
+RES-2025-00317,2025-02-16,KUND-06672,Reykjavik,,2025-04-09,2025-04-13,3,All inclusive,51592.8,SEK,Hotel Borg,Webb,Bekräftad,,,,
+RES-2025-00318,2025-02-20,KUND-07607,Tromsø,Norge,2025-03-15,2025-03-20,2,Endast boende,14524.5,SEK,,Webb,Genomförd,,,,
+RES-2025-00319,2025-02-23,KUND-06807,Rovaniemi,Finland,2025-03-01,2025-03-03,2,Weekend-paket,11016.0,SEK,Scandic Rovaniemi,Webb,Genomförd,,Perfekt weekendresa till Rovaniemi. Kommer tillbaka!,2025-03-18,5
+RES-2025-00320,2025-02-05,KUND-06047,Helsingfors,Finland,2025-04-02,2025-04-06,2,All inclusive,26460.0,SEK,Hotel Kämp,Telefon,Bekräftad,,,,
+RES-2025-00321,2025-02-20,KUND-07131,Tromsø,Norge,2025-03-28,2025-03-31,2,All inclusive,41924.4,SEK,Clarion Hotel The Edge,Webb,Genomförd,,,,
+RES-2025-00322,2025-02-12,KUND-07728,Köpenhamn,Danmark,2025-03-08,2025-03-13,2,Halvpension,20668.6,SEK,Comfort Hotel Vesterbro,Webb,Genomförd,,Helt okej resa. Varken mer eller mindre.,2025-04-02,3
+RES-2025-00323,2025-02-11,KUND-07694,Reykjavik,Island,2025-04-10,2025-04-16,1,All inclusive,34889.4,SEK,CenterHotel Midgardur,Telefon,Confirmed,,,,
+RES-2025-00324,2025-02-02,KUND-06221,Köpnhamn,Danmark,2025-03-03,2025-03-08,2,Endast boende,13256.6,,Hotel Scandic Copenhagen,Telefon,Genomförd,,,,
+RES-2025-00325,2025-02-12,KUND-05396,Oslo,Norge,2025-03-06,2025-03-09,2,Weekend-paket,557.91,EUR,Thon Hotel Opera,Webb,Genomförd,,Kommer definitivt åka hit igen nästa år!,2025-03-17,4
+RES-2025-00326,2025-02-21,KUND-05188,Köpenhamn,Danmark,2025-03-05,2025-03-07,2,Weekend-paket,8064.8,SEK,Hotel Scandic Copenhagen,App,Genomförd,,,,
+RES-2025-00327,2025-02-23,KUND-08589,Oslo,Norge,2025-03-21,2025-03-23,2,Weekend-paket,6278.0,NOK,Hotel Continental,Webb,Genomförd,,,,
+RES-2025-00328,2025-02-14,KUND-06061,Köpenhman,Danmark,2025-03-21,2025-03-25,5,Halvpension,38704.75,SEK,Comfort Hotel Vesterbro,,Avbokad,2025-02-18,,,
+RES-2025-00329,2025-02-12,KUND-07232,Rovaniemi,Finland,2025-02-17,2025-02-19,2,Weekend-paket,12163.2,SEK,Scandic Rovaniemi,Webb,Färdig,,"Mysig stad, trevliga restauranger, fin stämning.",2025-02-23,5
+RES-2025-00330,2025-02-09,KUND-08676,Reykjavik,Island,2025-04-12,19-04-2025,2,Halvpension,25704.0,SEK,Bus Hostel Reykjavik,Telefon,Bekräftad,,,,
+RES-2025-00331,2025-02-08,KUND-06544,Reykjavik,Island,2025-04-17,2025-04-23,5,Allt ingår,99568.0,SEK,CenterHotel Midgardur,Telefon,Bekräftad,,,,
+RES-2025-00332,2025-02-11,KUND-07981,Köpenhamn,Danmark,2025-03-02,2025-03-05,2,Weekend-paket,6208.4,SEK,Comfort Hotel Vesterbro,Webb,Done,,Fantastiskt väder och härliga upplevelser.,2025-03-16,4
+RES-2025-00333,2025-02-07,KUND-08774,Köpenhamn,Danmark,"March 19, 2025",2025-03-22,5,Halvpension,57128.5,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,,,
+RES-2025-00334,2025-02-11,KUND-06432,Oslö,Norge,2025-03-18,2025-03-22,2,Halvpension,15910.0,SEK,Hotel Continental,App,Genomförd,,,,
+RES-2025-00335,2025-02-17,KUND-05577,Köpenhman,Danmark,2025-03-22,2025-03-27,1,Halvpension,7453.65,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-04-14,5
+RES-2025-00336,2025-02-04,KUND-08256,Köpenhamn,Danmark,2025-02-28,2025-03-05,2,Halvpension,20624.4,SEK,Hotel D'Angleterre,Webb,Genomförd,,Fantastiskt väder och härliga upplevelser.,2025-03-07,5
+RES-2025-00337,2025-02-28,KUND-08024,Köpenhamn,,2025-03-19,2025-03-22,2,Kortresa,9809.0,SEK,Hotel D'Angleterre,App,Genomförd,,,,
+RES-2025-00338,2025-02-26,KUND-07096,Rovaniemi,Finland,2025-03-30,4 april 2025,1,Endast boende,7052.4,SEK,Scandic Rovaniemi,App,Bekräftad,,,,
+RES-2025-00339,2025-02-10,KUND-06203,Köpenhman,Danmark,2025-03-14,2025-03-18,4,Halvpension,31110.0,SEK,Hotel Scandic Copenhagen,Telefon,Genomförd,,,,
+RES-2025-00340,2025-02-09,KUND-07530,Rovaniemi,Finland,2025-03-19,2025-03-23,4,Endast boende,23510.4,SEK,Arctic TreeHouse Hotel,Webb,Genomförd,,,,
+RES-2025-00341,2025-02-26,KUND-05913,Tromso,Norge,2025-03-21,2025-03-24,1,Weekend-paket,6170.9,SEK,Smarthotel Tromsø,App,Genomförd,,Bra flygtider men maten på hotellet var medioker.,2025-04-10,3
+RES-2025-00342,2025-02-09,KUND-08051,Tromsø,Norge,2025-03-07,2025-03-11,3,Endast boende,22207.65,NOK,Clarion Hotel The Edge,App,Genomförd,,,,
+RES-2025-00343,2025-02-19,KUND-07065,Reykjavik,,2025-04-05,2025-04-12,2,Halvpension,2651.72,EUR,Bus Hostel Reykjavik,Telefon,Bekräftad,,,,
+RES-2025-00344,2025-02-10,KUND-06688,Oslo,Norge,2025-03-02,2025-03-04,2,Weekend-paket,6022.0,SEK,Hotel Continental,App,Genomförd,,,,
+RES-2025-00345,2025-02-10,KUND-07405,Köpenhamn,Danmark,2025-03-19,2025-03-24,2,All inclusive,21477.8,SEK,Hotel Scandic Copenhagen,Telefon,Genomförd,,"Mysig stad, trevliga restauranger, fin stämning.",2025-03-29,5
+RES-2025-00346,2025-02-06,KUND-06831,Rovaniemi,Finland,2025-03-19,2025-03-22,2,All inclusive,54900.0,SEK,,Webb,Genomförd,,Bästa resan vi gjort. Rovaniemi är otroligt!,2025-03-29,4
+RES-2025-00347,2025-02-09,KUND-08984,Köpenhamn,Danmark,2025-02-17,2025-02-20,2,Weekend-paket,424.85,EUR,Hotel D'Angleterre,Webb,Färdig,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-03-09,5
+RES-2025-00348,2025-02-26,KUND-08079,Reykjavik,Island,2025-03-31,2025-04-03,5,Weekend-paket,39011.0,SEK,Hotel Borg,App,Bekräftad,,,,
+RES-2025-00349,2025-03-10,KUND-06922,Köpenhamn,Danmark,2025-03-01,2025-03-04,2,Endast boende,7369.5,SEK,Comfort Hotel Vesterbro,App,Genomförd,,,,
+RES-2025-00350,2025-02-17,KUND-08098,Reykjavik,Island,2025-03-11,2025-03-13,5,Weekend-paket,35189.0,SEK,CenterHotel Midgardur,Webb,Färdig,,,,
+RES-2025-00351,2025-02-09,KUND-08926,Bergen,Norge,27-03-2025,2025-03-30,2,All inclusive,31992.0,SEK,Budget Hotel Bergen,Telefon,Genomförd,,Helt acceptabelt för priset.,2025-04-17,3
+RES-2025-00352,2025-02-06,KUND-08962,Oslo,Norge,2025-02-15,2025-02-17,2,Weekend-paket,8952.0,NOK,Thon Hotel Opera,Webb,Completed,,"Mysig stad, trevliga restauranger, fin stämning.",2025-03-01,4
+RES-2025-00353,2025-02-02,KUND-08449,Oslo,Norge,2025-03-19,2025-03-23,2,All inclusive,36448.0,NOK,Comfort Hotel Grand Central,App,Genomförd,,,,
+RES-2025-00354,2025-02-19,KUND-05913,Tromsø,Norge,2025-03-07,2025-03-06,2,Weekend-paket,11891.0,SEK,Clarion Hotel The Edge,,Genomförd,,Perfekt weekendresa till Tromsø. Kommer tillbaka!,2025-03-26,5
+RES-2025-00355,2025-02-27,KUND-08292,Reykjavik,Island,2025-04-23,2025-04-30,2,Halvpension,2648.31,EUR,Bus Hostel Reykjavik,Internet,Bekräftad,,,,
+RES-2025-00356,2025-02-27,KUND-06440,Tromsø,Norge,2025-03-29,2025-04-02,3,Endast boende,20986.35,SEK,Smarthotel Tromsø,Webb,Bekräftad,,,,
+RES-2025-00357,2025-02-23,KUND-08460,Köpenhamn,Danmark,2025-03-14,2025-03-17,2,Halvpension,17321.3,SEK,Hotel Scandic Copenhagen,App,Genomförd,,,,
+RES-2025-00358,2025-02-03,KUND-05081,Oslö,Norge,2025-02-24,2025-02-23,2,Weekend-paket,7668.0,SEK,Hotel Continental,Webb,Genomförd,,,,
+RES-2025-00359,2025-02-10,KUND-08631,BERGEN,Norge,2025-03-19,2025-03-22,3,All inclusive,72546.0,SEK,Hotel Norge,Webb,Genomförd,,Fantastiskt väder och härliga upplevelser.,2025-03-26,4
+RES-2025-00360,2025-02-15,KUND-06102,Tromsø,Norge,2025-03-10,2025-03-14,1,endast boende,3640.9,SEK,Clarion Hotel The Edge,Webb,Genomförd,,,,
+RES-2025-00361,2025-02-06,KUND-06047,Tromsø,Norge,2025-04-03,2025-04-07,2,All inclusive,2943.2,EUR,Clarion Hotel The Edge,Telefon,Bekräftad,,,,
+RES-2025-00362,2025-02-26,KUND-06369,Köpenhman,Danmark,2025-03-10,2025-03-14,2,Endast boende,14563.9,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-03-23,5
+RES-2025-00363,2025-02-11,KUND-05780,Köpenhamn,Danmark,2025-03-11,2025-03-16,3,Endast boende,10225.5,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,,,
+RES-2025-00364,2025-02-18,KUND-08244,Helsingfross,Finland,2025-03-12,2025-03-15,1,Kortresa,451.33,EUR,Hotel Kämp,app,Genomförd,,,,
+RES-2025-00365,2025-02-18,KUND-08308,Trondheim,Norge,2025-03-06,2025-03-10,3,Endast boende,18542.1,SEK,Comfort Hotel Trondheim,APP,Genomförd,,Helt okej resa. Varken mer eller mindre.,2025-03-23,3
+RES-2025-00366,2025-02-27,KUND-08308,Köpenhamn,,2025-04-08,2025-04-13,1,Halvpension,7145.95,SEK,Hotel Scandic Copenhagen,Webb,Avbokad,2025-03-12,,,
+RES-2025-00367,2025-02-11,KUND-07314,Reykajvik,Island,2025-03-09,2025-03-11,2,Weekend-paket,15470.0,SEK,CenterHotel Midgardur,Webb,Genomförd,,Smidigt att boka och allt fungerade perfekt.,2025-03-21,4
+RES-2025-00368,2025-02-28,KUND-06560,Köpenhamn,Danmark,2025-03-20,2025-03-24,2,Endast boende,8151.5,SEK,Hotel D'Angleterre,Webb,Genomförd,,Norrskenet gjorde hela resan värd det.,2025-04-14,5
+RES-2025-00369,2025-02-23,KUND-07050,Tromsø,Norge,2025-04-02,2025-04-07,2,Halvpension,28032.4,SEK,Smarthotel Tromsø,Telefon,Bekräftad,,,,
+RES-2025-00370,2025-02-19,KUND-07537,Oslo,Norge,19/03/2025,2025-03-23,2,Endast boende,778.78,EUR,Thon Hotel Opera,Webb,Genomförd,,"Perfekt planerad resa, inget att klaga på.",2025-04-02,4
+RES-2025-00371,2025-02-10,KUND-05020,Trondheim,Norge,2025-03-07,2025-03-11,3,Endast boende,20274.9,SEK,Britannia Hotel,Webb,Genomförd,,Allting klaffade från början till slut.,2025-03-28,4
+RES-2025-00372,2025-02-22,KUND-07941,Tromsø,Norge,2025-02-27,2025-03-01,2,Weekend-paket,5871.9,NOK,Clarion Hotel The Edge,Webb,Genomförd,,,,
+RES-2025-00373,2025-02-23,KUND-07236,Rovaniemi,Finland,2025-03-18,2025-03-20,2,Weekend-paket,13428.0,SEK,Arctic TreeHouse Hotel,App,Done,,,,
+RES-2025-00374,2025-02-11,KUND-07635,Köpenhamn,Danmark,2025-03-08,2025-03-13,1,Bed & Breakfast,7926.25,SEK,Hotel Scandic Copenhagen,Telefon,Genomförd,,Kommer definitivt åka hit igen nästa år!,2025-03-17,4
+RES-2025-00375,2025/02/26,KUND-07808,Oslo,Norge,2025-03-17,2025-03-21,2,Endast boende,14606.0,SEK,Thon Hotel Opera,Webb,Genomförd,,"Mysig stad, trevliga restauranger, fin stämning.",2025-04-05,4
+RES-2025-00376,2025-02-17,KUND-06364,Rovaniemi,Finland,2025-04-10,2025-04-15,2,All inclusive,42537.6,SEK,Scandic Rovaniemi,Webb,Bekräftad,,,,
+RES-2025-00377,2025-02-14,KUND-05678,Köpenhamn,Danmark,2025-03-29,2025-04-03,5,Halvpension,49342.5,SEK,Comfort Hotel Vesterbro,Webb,Bekräftad,,,,
+RES-2025-00378,2025-02-05,KUND-08415,Helsingfors,Finland,2025-03-16,2025-03-15,3,Halvpension,37033.2,SEK,Hotel Kämp,Telefon,Genomförd,,Perfekt weekendresa till Helsingfors. Kommer tillbaka!,2025-03-25,5
+RES-2025-00379,2025-02-26,KUND-06678,Rovaniemi,Finland,2025-03-29,2025-04-02,6,Halvpension,61977.6,SEK,Arctic TreeHouse Hotel,Telefon,Bekräftad,,,,
+RES-2025-00380,2025-02-21,KUND-07845,Reykjavik,Island,2025-04-01,2025-04-07,1,Endast boende,4428.2,SEK,CenterHotel Midgardur,Mobil,Bekräftad,,,,
+RES-2025-00381,2025-02-17,KUND-08760,ROVANIEMI,Finland,2025-03-10,2025-03-12,1,Weekend-paket,5480.4,SEK,Arctic TreeHouse Hotel,App,Genomförd,,"Hotellet var fantastiskt, frukostbuffén överraskade!",2025-04-01,4
+RES-2025-00382,2025-02-22,KUND-08653,Oslo,Norge,2025-03-30,2025-04-03,6,Endast boende,20214.0,,Comfort Hotel Grand Central,Telefon,Genomförd,,,,
+RES-2025-00383,2025-02-23,KUND-07429,Helsingfors,Finland,2025-03-27,2025-03-30,3,Halvpension,35842.5,SEK,Original Sokos Hotel,App,Genomförd,,,,
+RES-2025-00384,2025-02-05,KUND-07607,Köpenhamn,Danmark,2025-03-01,2025-03-06,1,Halvpension,8273.05,SEK,Hotel Scandic Copenhagen,Webb,Genomförd,,,,
+RES-2025-00385,2025-02-22,KUND-08341,Bergen,Norge,2025-03-21,2025-03-26,2,Endast boende,17276.0,SEK,Hotel Norge,Webb,Genomförd,,,,
+RES-2025-00386,2025-02-10,KUND-06087,Köpenhamn,Danmark,2025-02-27,2025-03-03,3,Endast boende,20818.2,SEK,Hotel D'Angleterre,Webb,Genomförd,,,,
+RES-2025-00387,2025-02-08,KUND-08979,Tromsø,,2025-02-27,2025-03-02,2,Endast boende,19545.4,NOK,Clarion Hotel The Edge,Website,Genomförd,,Såg norrsken tre av fyra kvällar. Fantastiskt!,2025-03-13,5
+RES-2025-00388,2025-02-28,KUND-07179,Rovaniemi,,2025-04-05,2025-04-10,1,Halvpension,10268.4,SEK,Scandic Rovaniemi,Webb,Bekräftad,,,,
+RES-2025-00389,2025-02-04,KUND-08103,Reykajvik,Island,2025-03-28,2025-04-02,1,Halvpension,16711.8,SEK,Bus Hostel Reykjavik,App,Genomförd,,,,
+RES-2025-00390,2025-02-08,KUND-05390,Tromsø,Norge,2025-03-22,2025-03-26,2,FB,2842.8,EUR,Smarthotel Tromsø,Webb,Genomförd,,,,
+RES-2025-00391,2025-02-28,KUND-08578,Tromsö,Norge,2025-04-25,2025-04-30,1,All inclusive,27169.9,SEK,Smarthotel Tromsø,Telefon,Bekräftad,,,,
+RES-2025-00392,2025-02-02,KUND-07730,Tromsø,Norge,2025-03-05,2025-03-10,2,Endast Boende,15168.5,NOK,,Webb,Cancelled,2025-02-13,,,
+RES-2025-00393,2025-02-15,KUND-06087,Reykjavik,Island,2025-03-31,2025-04-05,2,Halvpension,30528.4,SEK,CenterHotel Midgardur,Webb,Bekräftad,,,,
+RES-2025-00394,2025-02-02,KUND-07138,Helsingfors,Finland,2025-02-19,2025-02-24,2,Endast boende,5927.4,,Original Sokos Hotel,App,Genomförd,,Perfekt weekendresa till Helsingfors. Kommer tillbaka!,2025-03-07,4
+RES-2025-00395,2025-02-19,KUND-06434,Köpenhamn,Danmark,2025-03-04,2025-03-07,1,Endast boende,3003.05,SEK,Comfort Hotel Vesterbro,Webb,Genomförd,,"Perfekt planerad resa, inget att klaga på.",2025-03-22,4
+RES-2025-00396,2025-02-16,KUND-08514,Helsingfor,Finland,2025-03-07,2025-03-10,6,Endast boende,35532.0,SEK,Omena Hotel,Phone,Genomförd,,"Fungerade, men jag hade väntat mig mer för priset.",2025-03-22,3
+RES-2025-00397,2025-02-09,KUND-07871,Tromsø,,2025-03-23,2025-03-26,2,Halvpension,29683.8,SEK,Clarion Hotel The Edge,App,Genomförd,,,,
+RES-2025-00398,2025-02-24,KUND-05471,Tromsø,Norge,2025-04-20,2025-04-25,2,All inclusive,48465.6,SEK,Smarthotel Tromsø,Telefon,Bekräftad,,,,
+RES-2025-00399,2025-02-09,KUND-06556,Köpenhamnn,Danmark,2025-02-19,2025-02-22,1,Weekend-paket,5046.45,SEK,Comfort Hotel Vesterbro,Telefon,Genomförd,,,,
+RES-2025-00400,2025-02-17,KUND-08510,Köpenhamn,,2025-03-05,2025-03-07,2,Weekend-paket,8245.0,SEK,Comfort Hotel Vesterbro,App,Genomförd,,,,
+RES-2025-00401,2025-02-18,KUND-06224,Oslö,Norge,2025-03-07,2025-03-12,2,RO,11948.0,NOK,Thon Hotel Opera,App,Genomförd,,,,
